@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 [![yoyoyoheyheyhey's github stats](https://github-readme-stats.vercel.app/api?username=yoyoyoheyheyhey&count_private=true&show_icons=true&theme=github_dark)](https://github.com/yoyoyoheyheyhey/)
-<img align='right' src="https://media4.giphy.com/media/c9IdCLK8TDv1e/giphy.gif?cid=ecf05e47runb157kgjqm3zhscqsxowdxnub4zzp651oehpw2&rid=giphy.gif&ct=g" width="380">
+<img align='right' src="https://media4.giphy.com/media/c9IdCLK8TDv1e/giphy.gif?cid=ecf05e47runb157kgjqm3zhscqsxowdxnub4zzp651oehpw2&rid=giphy.gif&ct=g" width="330">
 
 [![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoyoyoheyheyhey&layout=compact&theme=github_dark)](https://github.com/yoyoyoheyheyhey/)
 
